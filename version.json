@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "url": "https://github.com/Sanpp288/zenith-releases/releases/download/v1.4/zenith-v1.4.apk",
-  "notas": "Primera versión con soporte TV stick"
+  "versionCode": 6,
+  "versionName": "1.6",
+  "url": "https://github.com/Sanpp288/zenith-releases/releases/download/v1.6/zenith-v1.6.apk",
+  "notas": "- Mejoras de rendimiento\n- Corrección de bugs"
 }
